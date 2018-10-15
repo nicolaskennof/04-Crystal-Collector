@@ -16,7 +16,7 @@ b. Click on every crystal to know its value.
 c. Sum up the crystal values in order to reach the random value on the top.
 
 #========== 3. How to get started? ==========
-Please visit https://nicolaskennof.github.io/unit-4-game/
+Please visit https://nicolaskennof.github.io/04-Crystal-Collector/
 
 #========== 4. Who maintains and contributes? ==========
 Nicolas Kennof is the main contributor to this project.
